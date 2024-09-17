@@ -113,6 +113,11 @@
     padding: auto;
 }
 
+.cities-mapped-button-images-card-Styling{
+    width: 220%;
+    padding-top: 15%;
+}
+
 
 .modal-card{
     width: 90px;
@@ -201,12 +206,12 @@
     background-image: linear-gradient(to left,#201b21,#01214d,#201b21);
     height: 8%;
     padding-top: 20px;
-    color: white;
     padding-top: 140px;
     padding-left: 100px;
     padding-right: 100px;
     background-size: cover;
-    
+    color:#f6f0df;
+    font-family: Helvetica;
 }
 
 .Aboutus-Title-Styling{
@@ -230,6 +235,7 @@
 
 .Team-Card-images-Stlying{
     text-align: center;
+    font-size: 16x;
 }
 
 .team-names-card{
@@ -238,7 +244,7 @@
 
 
 .Contact-us-section {
-    background-image: linear-gradient(to left,#201b21,#01214d,#201b21);
+    /* background-image: linear-gradient(to left,#201b21,#01214d,#201b21); */
     color: #f6f0df;
     padding-top: 15%;
 }
@@ -294,4 +300,5 @@
 
 .Contact-us-section-description{
     text-align: start;
+    font-size: 14px;
 }
